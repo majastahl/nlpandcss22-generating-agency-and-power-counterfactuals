@@ -1,3 +1,0 @@
-The file 'power_agency_sents.cvs' is a plain-text version of the data in 'power_agency_sents.pkl', which is used in the code. The used pickled file included flair.Sentence objects by [1], that caused the file to massively exceed the accepted upload size.
-
-[1] Alan Akbik, Tanja Bergmann, Duncan Blythe, Kashif Rasul, Stefan Schweter, and Roland Vollgraf. 2019. FLAIR: An Easy-to-Use Framework for State-of-the-Art NLP. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics (Demonstrations), pages 54–59, Minneapolis, Minnesota. Association for Computational Linguistics.
